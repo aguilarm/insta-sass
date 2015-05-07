@@ -1,0 +1,18 @@
+{
+  "name": "centennial",
+  "version": "0.0.0",
+  "homepage": "https://github.com/FavishInc/cbs-centennial",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "compass-mixins": "~1.0.2",
+    "breakpoint-sass": "~2.5.0",
+    "susy": "~2.2.2"
+  }
+}
